@@ -43,7 +43,7 @@ function BlockSettingsMenu( { onDelete, onToggleMode, onSelect, isSidebarOpened,
 				className="editor-block-settings-menu__control"
 				onClick={ onToggleMode }
 				icon="html"
-				label={ __( 'Switch between the visual/textual mode' ) }
+				label={ __( 'Switch between the visual/text mode' ) }
 			/>
 		</div>
 	);
